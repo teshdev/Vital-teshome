@@ -1,7 +1,8 @@
 "use client"
 import { useState } from "react";
 import { DndProvider, useDrag, useDrop } from 'react-dnd';
-import { HTML5Backend } from 'react-dnd-html5-backend'; import Head from 'next/head';
+import { HTML5Backend } from 'react-dnd-html5-backend';
+import Head from 'next/head';
 import Image from 'next/image'
 const ItemTypes = {
   ITEM: 'item',

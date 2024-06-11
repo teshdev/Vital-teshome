@@ -14,6 +14,18 @@ pnpm dev
 bun dev
 ```
 
+React library used for smooth dragging functionality
+
+```bash
+# npm i react-dnd@16.0.1
+```
+
+```bash
+# npm i react-dnd-html5-backend@16.0.1
+```
+
+Images are used from https://www.pexels.com/ and configuration done in next.config.js file.
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
